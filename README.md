@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZevWepster
 - 👀 I’m interested in Coding, Running and Gaming
-- 🌱 I’m currently learning Python and Cloud Engineering at the Techgrounds Academy
+- 🌱 I am currently studying at the WINC Academy to become a Full stack Developer.
 
 
 <!---
