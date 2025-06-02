@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZevWepster
 - 👀 I’m interested in Coding, Running and Gaming
-- 🌱 I am currently studying at the WINC Academy to become a Full stack Developer.
+- 🌱 I am currently looking for an oppertunity to become a Full stack Developer.
 
 
 <!---
